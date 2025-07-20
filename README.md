@@ -15,4 +15,4 @@ You may **not**:
 - Use any part of this work for **commercial purposes** without prior permission.
 - Claim this work as your own or relicense it under a more permissive or commercial license.
 
-For commercial inquiries or licensing requests, please contact: [contact@nexor.dynamics] (update this with a real email)
+For commercial inquiries or licensing requests, please contact: [klesti.selimay@icloud.com]
